@@ -1,0 +1,6 @@
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\bin\Debug\Datos.dll
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\bin\Debug\Datos.pdb
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\obj\Debug\Datos.dll
+D:\dev\Iplacex\Programacion1\peces-deploy\Datos\obj\Debug\Datos.pdb

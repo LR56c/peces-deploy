@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|d:\\dev\\iplacex\\programacion1\\peces-deploy\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\modelo\\controladores\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|solutionrelative:modelo\\controladores\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\mpsitio.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:mpsitio.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\detalleticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\detalleticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\listadoticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\listadoticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\listadoticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\listadoticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\detalleticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\detalleticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\crearticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\crearticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\crearticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\crearticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\actualizarticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\actualizarticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\ticket\\actualizarticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:ticket\\actualizarticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\mpsitio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:mpsitio.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{202F60AD-00E2-45B8-93CE-1C7EF3287474}|peces-deploy.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\datos\\entities\\ticketentitycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\ticketentitycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\datos\\entities\\ticketentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\ticketentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\datos\\entities\\personanaturalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\personanaturalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\datos\\entities\\empresaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\empresaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\datos\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C3E05-ED3B-4D5F-84AE-01F24532105C}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\modelo\\modelos\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelos\\personanatural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\modelo\\modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelos\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\modelo\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\modelo\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E930A79-13D5-428A-B5BC-C5C9D7690C1C}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T23:45:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MPSitio.Master",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\MPSitio.Master",
+              "RelativeDocumentMoniker": "MPSitio.Master",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\MPSitio.Master",
+              "RelativeToolTip": "MPSitio.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:49:41.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\controladores\\TicketController.cs",
+              "RelativeDocumentMoniker": "Modelo\\controladores\\TicketController.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\controladores\\TicketController.cs",
+              "RelativeToolTip": "Modelo\\controladores\\TicketController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:30:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleTicket.aspx.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\DetalleTicket.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\DetalleTicket.aspx.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\DetalleTicket.aspx.cs",
+              "RelativeToolTip": "Ticket\\DetalleTicket.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:56:01.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListadoTicket.aspx.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ListadoTicket.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\ListadoTicket.aspx.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ListadoTicket.aspx.cs",
+              "RelativeToolTip": "Ticket\\ListadoTicket.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwDMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:56:29.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListadoTicket.aspx",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ListadoTicket.aspx",
+              "RelativeDocumentMoniker": "Ticket\\ListadoTicket.aspx",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ListadoTicket.aspx",
+              "RelativeToolTip": "Ticket\\ListadoTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:54:27.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActualizarTicket.aspx.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ActualizarTicket.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\ActualizarTicket.aspx.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ActualizarTicket.aspx.cs",
+              "RelativeToolTip": "Ticket\\ActualizarTicket.aspx.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:55:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleTicket.aspx",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\DetalleTicket.aspx",
+              "RelativeDocumentMoniker": "Ticket\\DetalleTicket.aspx",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\DetalleTicket.aspx",
+              "RelativeToolTip": "Ticket\\DetalleTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:54:16.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarTicket.aspx",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ActualizarTicket.aspx",
+              "RelativeDocumentMoniker": "Ticket\\ActualizarTicket.aspx",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\ActualizarTicket.aspx",
+              "RelativeToolTip": "Ticket\\ActualizarTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:54:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrearTicket.aspx.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\CrearTicket.aspx.cs",
+              "RelativeDocumentMoniker": "Ticket\\CrearTicket.aspx.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\CrearTicket.aspx.cs",
+              "RelativeToolTip": "Ticket\\CrearTicket.aspx.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:55:44.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearTicket.aspx",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\CrearTicket.aspx",
+              "RelativeDocumentMoniker": "Ticket\\CrearTicket.aspx",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Ticket\\CrearTicket.aspx",
+              "RelativeToolTip": "Ticket\\CrearTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:53:38.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T23:48:59.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.sitemap",
+              "RelativeDocumentMoniker": "Web.sitemap",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.sitemap",
+              "RelativeToolTip": "Web.sitemap",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2024-09-12T23:52:03.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MPSitio.Master.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\MPSitio.Master.cs",
+              "RelativeDocumentMoniker": "MPSitio.Master.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\MPSitio.Master.cs",
+              "RelativeToolTip": "MPSitio.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:50:57.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T23:50:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:50:21.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T23:48:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketEntityCollection.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\TicketEntityCollection.cs",
+              "RelativeDocumentMoniker": "Datos\\entities\\TicketEntityCollection.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\TicketEntityCollection.cs",
+              "RelativeToolTip": "Datos\\entities\\TicketEntityCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:29:05.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicketEntity.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\TicketEntity.cs",
+              "RelativeDocumentMoniker": "Datos\\entities\\TicketEntity.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\TicketEntity.cs",
+              "RelativeToolTip": "Datos\\entities\\TicketEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:54.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonaNaturalEntity.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\PersonaNaturalEntity.cs",
+              "RelativeDocumentMoniker": "Datos\\entities\\PersonaNaturalEntity.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\PersonaNaturalEntity.cs",
+              "RelativeToolTip": "Datos\\entities\\PersonaNaturalEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:45.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmpresaEntity.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\EmpresaEntity.cs",
+              "RelativeDocumentMoniker": "Datos\\entities\\EmpresaEntity.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\EmpresaEntity.cs",
+              "RelativeToolTip": "Datos\\entities\\EmpresaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:32.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteEntity.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\ClienteEntity.cs",
+              "RelativeDocumentMoniker": "Datos\\entities\\ClienteEntity.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Datos\\entities\\ClienteEntity.cs",
+              "RelativeToolTip": "Datos\\entities\\ClienteEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:28:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonaNatural.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\PersonaNatural.cs",
+              "RelativeDocumentMoniker": "Modelo\\modelos\\PersonaNatural.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\PersonaNatural.cs",
+              "RelativeToolTip": "Modelo\\modelos\\PersonaNatural.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:30:58.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Ticket.cs",
+              "RelativeDocumentMoniker": "Modelo\\modelos\\Ticket.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Ticket.cs",
+              "RelativeToolTip": "Modelo\\modelos\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:31:04.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Empresa.cs",
+              "RelativeDocumentMoniker": "Modelo\\modelos\\Empresa.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Empresa.cs",
+              "RelativeToolTip": "Modelo\\modelos\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:30:49.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Modelo\\modelos\\Cliente.cs",
+              "ToolTip": "D:\\dev\\Iplacex\\Programacion1\\peces-deploy\\Modelo\\modelos\\Cliente.cs",
+              "RelativeToolTip": "Modelo\\modelos\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:30:35.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

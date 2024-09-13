@@ -1,0 +1,9 @@
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\bin\Debug\Modelo.dll
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\bin\Debug\Modelo.pdb
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\bin\Debug\Datos.dll
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\bin\Debug\Datos.pdb
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\obj\Debug\Modelo.csproj.Up2Date
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\obj\Debug\Modelo.dll
+D:\dev\Iplacex\Programacion1\peces-deploy\Modelo\obj\Debug\Modelo.pdb
